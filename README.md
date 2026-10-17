@@ -1,4 +1,4 @@
-## Olá, chamo-me Marley! 👋
+## Olá, chamo-me Marley! 👋🏻
 
 - 🔭 **Hoje trabalho como:** Analista de Infraestrutura e Suporte de TI (com foco em redes, Active Directory e servidores Linux/Windows).
 - 🌱 **A estudar:** A frequentar a licenciatura em Análise e Desenvolvimento de Sistemas, com foco em Programação (Java e web).
